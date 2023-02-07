@@ -1,2 +1,2 @@
 # SpaceBattle
-There will be intoduction to the game.
+There will be introduction to the game.
